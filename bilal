@@ -40,7 +40,3 @@ cacheSolve <- function(x, ...)
   inverse
 }
 
-
-  my_matrix$getinverse()  # Returns matrix inverse    
-  my_matrix$get() %*% my_matrix$getinverse() # returns the identity matrix
-}
